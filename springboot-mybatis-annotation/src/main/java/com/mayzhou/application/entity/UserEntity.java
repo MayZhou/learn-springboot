@@ -4,9 +4,6 @@ import java.io.Serializable;
 
 import com.mayzhou.application.enums.UserSexEnum;
 
-import lombok.Data;
-
-@Data
 public class UserEntity implements Serializable {
 
 	/**
